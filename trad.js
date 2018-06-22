@@ -1,6 +1,9 @@
 // JavaScrit Hausaufgaben von Trad
 // Bitte ein Diagramm Zeichnen
 
+// eine Änderung von Trad
+// Freitag 22 Juni 2018 
+
 function drawing() {
   var count = 0;
   lineWidth(1)
