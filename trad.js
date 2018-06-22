@@ -1,3 +1,6 @@
+// JavaScrit Hausaufgaben von Trad
+// Bitte ein Diagramm Zeichnen
+
 function drawing() {
   var count = 0;
   lineWidth(1)
